@@ -1,2 +1,5 @@
-# FI---QIX
-Práctica final de fundamentos de Informática
+# FI-QIX
+
+Práctica final de fundamentos de Informática,
+
+
